@@ -53,7 +53,7 @@
 </div>
 </details>
 
-<details> 
+<!-- <details> 
   <summary>💻 GitHub Profile Stats</summary>
   <div>
     <h2 align="center"> 📊 Github stats </h2>
@@ -70,14 +70,14 @@
        </p>
      <br>
   </div>    
-</details>
+</details> -->
 
-<details>
+<!-- <details>
   <summary>📈 Activity Graph</summary>
   <br/>
   <h2 align="center"> my current activity </h2>
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="Ridho's Activity Graph" src="https://activity-graph.herokuapp.com/graph/?username=1999azzar&bg_color=000&color=fff&line=00E676&point=fff&hide_border=true" /></a>
-</details>
+</details> -->
 
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
